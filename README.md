@@ -1,3 +1,8 @@
+.env.example:
+PORT=4000
+MONGO_URI==mongodb+srv://jcamacho27_db_user:papiro@cluster0.7jje6ty.mongodb.net/harmoniq_db?retryWrites=true&w=majority
+
+
 # 🎵 HarmoniQ  
 
 Proyecto Universitario - Aplicación musical  
@@ -78,3 +83,4 @@ cd harmoniq-api
 ```bash
 npm install
 npm run dev
+
